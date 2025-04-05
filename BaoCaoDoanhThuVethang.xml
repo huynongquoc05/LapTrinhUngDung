@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <BaoCaoDoanhThuVethang>
+    <SubscriptionID>1</SubscriptionID>
+    <LicensePlate>29A-12345</LicensePlate>
+    <VehicleType>Car</VehicleType>
+    <StartDate>2025-04-01T00:00:00+07:00</StartDate>
+    <EndDate>2025-04-30T00:00:00+07:00</EndDate>
+    <Fee>1000000.00</Fee>
+  </BaoCaoDoanhThuVethang>
+  <BaoCaoDoanhThuVethang>
+    <SubscriptionID>2</SubscriptionID>
+    <LicensePlate>30F-67890</LicensePlate>
+    <VehicleType>Motorcycle</VehicleType>
+    <StartDate>2025-04-01T00:00:00+07:00</StartDate>
+    <EndDate>2025-04-30T00:00:00+07:00</EndDate>
+    <Fee>500000.00</Fee>
+  </BaoCaoDoanhThuVethang>
+  <BaoCaoDoanhThuVethang>
+    <SubscriptionID>3</SubscriptionID>
+    <LicensePlate>29A-12345</LicensePlate>
+    <VehicleType>Car</VehicleType>
+    <StartDate>2025-04-01T00:00:00+07:00</StartDate>
+    <EndDate>2025-05-01T00:00:00+07:00</EndDate>
+    <Fee>1000000.00</Fee>
+  </BaoCaoDoanhThuVethang>
+  <BaoCaoDoanhThuVethang>
+    <SubscriptionID>4</SubscriptionID>
+    <LicensePlate>30F-67890</LicensePlate>
+    <VehicleType>Motorcycle</VehicleType>
+    <StartDate>2025-04-01T00:00:00+07:00</StartDate>
+    <EndDate>2025-05-01T00:00:00+07:00</EndDate>
+    <Fee>500000.00</Fee>
+  </BaoCaoDoanhThuVethang>
+  <BaoCaoDoanhThuVethang>
+    <Fee>3000000.00</Fee>
+  </BaoCaoDoanhThuVethang>
+</DocumentElement>
